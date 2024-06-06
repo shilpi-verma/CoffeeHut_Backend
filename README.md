@@ -1,1 +1,18 @@
-# CoffeeHut_Backend\n\nThis repository contains the backend logic and management for the CoffeeHut website.\n\n##Features\n\n1. **User Profiles**: User Profiles based on the purchase history.\n\n2. **Payment Options**: Different payment options are available.\n\n3. **Transactions**:Record of all the transactions.\n\n##Files\n\n1.`user_profiles.md`\n\n2.`payment_options.md`\n\n3.`transactions.md`\n
+# CoffeeHut_Backend
+
+This repository contains the backend logic and management for the CoffeeHut eCommerce site.
+
+## Features
+
+- **User Profiles**: Management of various user profiles based on purchasing frequency.
+- **Payment Options**: Details of available payment methods.
+- **Commerce Transactions**: Record of all commerce transactions.
+
+## Files
+
+- `user_profiles.md`: Contains different user profiles.
+- `payment_options.md`: Lists all payment options available.
+- `commerce_transactions.md`: Records of commerce transactions.For any inquiries or feedback, please contact:
+
+- **Name**: Shilpi Verma
+- **Email**: shilpiverma396@gmail.com
