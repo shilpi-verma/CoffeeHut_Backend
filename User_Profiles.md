@@ -5,5 +5,5 @@
 - Monthly
 - Quarterly
 - Yearly
--Loyal
+- Loyal
 
